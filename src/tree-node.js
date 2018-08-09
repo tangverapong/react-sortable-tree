@@ -157,6 +157,7 @@ class TreeNode extends Component {
               draggedNode,
             })
           )}
+          &nbsp;
         </div>
       </div>
     );
